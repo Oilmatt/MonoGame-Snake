@@ -1,4 +1,4 @@
-namespace MonoGame_Snake
+namespace Stuff
 {
     public class EntityManager
     {
